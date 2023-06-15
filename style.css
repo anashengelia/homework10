@@ -4,6 +4,7 @@
     height: 100%;
     margin: auto;
 }
+
 /* header */
 .cover {
     width: 90%;
@@ -44,12 +45,12 @@
     line-height: 19px;
     text-align: right;
     letter-spacing: 0.1px;
-    
+
 }
 
 
 .cover_p {
-    
+
     background-color: black;
     color: white;
     border-radius: 47%;
@@ -59,7 +60,42 @@
     padding: 12px 24px;
     gap: 10px;
 }
+
 /* header ending */
+.section_main {
+
+    height: 100%;
+    margin: auto;
+    top: 96px;
+
+}
+
+.section_div1 {
+    width: 30%;
+    padding-left: 165px;
+
+    flex: none;
+    font-family: 'Inter' sans-serif;
+
+}
+
+.section_h3 {
+    padding-top: 134px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 60px;
+
+}
+
+.section_p {
+    padding-top: 26px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+
 
 
 
@@ -75,4 +111,5 @@
 
 /* .fa-bars {
     display: none;
-} */  მაინც მოჩანს none რომც დავუწერე 
+} */
+მაინც მოჩანს none რომც დავუწერე
