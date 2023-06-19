@@ -1,0 +1,12 @@
+@media(max-width:1024px){
+    .cover_photo{
+        display: flex; flex-direction: column;
+        align-items: center;
+    }
+    .section_div{
+        display: flex;  text-align: center;flex-direction: column;
+
+    }
+
+
+}

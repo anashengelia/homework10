@@ -1,0 +1,8 @@
+@media(maw-width:744px){
+    .header_ul, .header_nav{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+    }
+}
